@@ -1,5 +1,7 @@
 # Islandora Bookmark [![Build Status](https://travis-ci.org/Islandora/islandora_bookmark.png?branch=7.x)](https://travis-ci.org/Islandora/islandora_bookmark)
 
+## DO NOT USE THIS FORK!
+
 ## Introduction
 
 The Islandora Bookmark module allows users to build, manage, share and track lists of objects. Manage your bookmarks under /islandora-bookmark. There are two ways to add bookmarks to your lists:
