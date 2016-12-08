@@ -1,3 +1,5 @@
+# DO NOT USE THIS FORK
+
 # Islandora Bookmark [![Build Status](https://travis-ci.org/Islandora/islandora_bookmark.png?branch=7.x)](https://travis-ci.org/Islandora/islandora_bookmark)
 
 ## Introduction
